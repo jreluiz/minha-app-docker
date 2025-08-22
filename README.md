@@ -13,5 +13,5 @@ O Docker é uma plataforma de software que facilita a criação, implantação e
 
 * Docker Compose: Uma ferramenta para definir e executar aplicações multi-contêineres. Permite gerenciar todos os serviços de uma aplicação em um único arquivo de configuração.
 
-Prática: siga o tutorial para construir sua primeira aplicação docker
+Prática: siga o tutorial "introducao_ao_docker.pdf" para construir sua primeira aplicação docker
 
